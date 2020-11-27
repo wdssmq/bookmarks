@@ -24,10 +24,10 @@
 # npm i docsify-cli -g
 cnpm i docsify-cli -g
 
-# cd D:\node\bookmarks
+# cd "/d/node/bookmarks"
 docsify init ./docs
 
-# cd D:\node\bookmarks
+# cd "/d/node/bookmarks"
 docsify serve docs
 ```
 
