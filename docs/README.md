@@ -4,6 +4,8 @@
 
 偶尔会发现一些有意思的网址，但是加浏览器书签又不是很必要，就搞了这个站来记录；
 
+发布地址：https://wdssmq.github.io/bookmarks/#/
+
 博客：https://www.wdssmq.com/
 
 搭建：docsify
