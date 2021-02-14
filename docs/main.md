@@ -41,6 +41,12 @@
 
 <p>Bigjpg - AI人工智能图片无损放大 - 使用人工智能深度卷积神经网络(CNN)无损放大图片</p><p><a href="https://bigjpg.com/" target="_blank" title="Bigjpg - AI人工智能图片无损放大 - 使用人工智能深度卷积神经网络(CNN)无损放大图片">https://bigjpg.com/</a></p>
 
+### 将照片转成基于几何形状的水彩画
+
+> 图片处理丨在线工具
+
+<p>将照片转成基于几何形状的水彩画</p><p><a href="https://www.geometrize.co.uk/" target="_blank" title="Geometrize - desktop app for geometrizing images into geometric primitives">https://www.geometrize.co.uk/</a></p>
+
 -----
 <!-- 教程类 -->
 ## 教程类
