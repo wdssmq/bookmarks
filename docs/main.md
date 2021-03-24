@@ -7,13 +7,13 @@
 ## 工具类
 ### 通过与GitHub交互记录笔记的开源工具
 
-> GitHub丨Note丨web
+> GitHub丨Note丨在线线工具
 
 <p>logseq/logseq: A privacy-first, open-source platform for knowledge sharing and management.</p><p><a href="https://github.com/logseq/logseq" target="_blank" title="logseq/logseq: A privacy-first, open-source platform for knowledge sharing and management.">https://github.com/logseq/logseq</a></p>
 
 ### 回顾你的第一个 GitHub 提交
 
-> GitHub丨web
+> GitHub丨在线工具
 
 <p>Your First GitHub Commit Ever!</p><p><a href="https://www.amitmerchant.com/your-first-commit-ever/" target="_blank" title="Your First GitHub Commit Ever!">https://www.amitmerchant.com/your-first-commit-ever/</a></p>
 
@@ -25,19 +25,19 @@
 
 ### 在线压缩SVG
 
-> 图片处理丨SVG丨web
+> 图片处理丨SVG丨在线工具
 
 <p>SVGOMG - SVGO's Missing GUI</p><p><a href="https://jakearchibald.github.io/svgomg/" target="_blank" title="SVGOMG - SVGO's Missing GUI">https://jakearchibald.github.io/svgomg/</a></p>
 
 ### 智能图片压缩
 
-> 图片处理丨PNG丨JPEG丨web
+> 图片处理丨PNG丨JPEG丨在线工具
 
 <p>TinyPNG – Compress PNG images while preserving transparency</p><p><a href="https://tinypng.com/" target="_blank" title="TinyPNG – Compress PNG images while preserving transparency">https://tinypng.com/</a></p>
 
 ### 智能图片放大
 
-> 图片处理丨PNG丨JPEG丨web
+> 图片处理丨PNG丨JPEG丨在线工具
 
 <p>Bigjpg - AI人工智能图片无损放大 - 使用人工智能深度卷积神经网络(CNN)无损放大图片</p><p><a href="https://bigjpg.com/" target="_blank" title="Bigjpg - AI人工智能图片无损放大 - 使用人工智能深度卷积神经网络(CNN)无损放大图片">https://bigjpg.com/</a></p>
 
@@ -61,14 +61,20 @@
 -----
 <!-- 编程开发 -->
 ## 编程开发
-### JetBrains Mono. 给开发人员的 字体_
+### JetBrains Mono. 给开发人员的 字体
 
 > 字体丨编程
 
 <p>JetBrains Mono: A free and open source typeface for developers | JetBrains: Developer Tools for Professionals and Teams</p><p><a href="https://www.jetbrains.com/zh-cn/lp/mono/#ligatures" target="_blank" title="JetBrains Mono: A free and open source typeface for developers | JetBrains: Developer Tools for Professionals and Teams">https://www.jetbrains.com/zh-cn/lp/mono/#ligatures</a></p>
 
-### 将正则表达式转成解释图片。
+### 将正则表达式转成解释图片
 
-> 正则丨web
+> 正则丨在线工具
 
 <p>Regexper</p><p><a href="https://regexper.com/" target="_blank" title="Regexper">https://regexper.com/</a></p>
+
+### 在线 HTML 编辑器，支持 Emmet
+
+> HTML丨Markdown丨Emmet丨在线工具
+
+<p>在线代码编辑器--Html/Markdown支持</p><p><a href="http://r18.fun/edit-online/" target="_blank" title="在线代码编辑器--Html/Markdown支持">http://r18.fun/edit-online/</a></p>
