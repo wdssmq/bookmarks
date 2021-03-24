@@ -47,6 +47,12 @@
 
 <p>将照片转成基于几何形状的水彩画</p><p><a href="https://www.geometrize.co.uk/" target="_blank" title="Geometrize - desktop app for geometrizing images into geometric primitives">https://www.geometrize.co.uk/</a></p>
 
+### 随机生成占位图
+
+> 自动生成丨在线工具
+
+<p>Generative Placeholders</p><p><a href="https://generative-placeholders.glitch.me/" target="_blank" title="Generative Placeholders">https://generative-placeholders.glitch.me/</a></p>
+
 -----
 <!-- 教程类 -->
 ## 教程类
