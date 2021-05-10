@@ -64,6 +64,10 @@
 
 <p>Fetch API 教程 - 阮一峰的网络日志</p><p><a href="http://www.ruanyifeng.com/blog/2020/12/fetch-tutorial.html" target="_blank" title="Fetch API 教程 - 阮一峰的网络日志">http://www.ruanyifeng.com/blog/2020/12/fetch-tutorial.html</a></p>
 
+### PHP 函数速查
+
+<p>一条大河 - php 函数速查表</p><p><a href="https://php-dict.iddahe.com/" target="_blank" title="一条大河 - php 函数速查表">https://php-dict.iddahe.com/</a></p>
+
 -----
 <!-- 编程开发 -->
 ## 编程开发
