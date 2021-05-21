@@ -53,6 +53,11 @@
 
 <p>Generative Placeholders</p><p><a href="https://generative-placeholders.glitch.me/" target="_blank" title="Generative Placeholders">https://generative-placeholders.glitch.me/</a></p>
 
+### 共享浏览器窗口
+
+> 浏览器丨WebRTC丨屏幕共享
+
+<p>Come browse with me</p><p><a href="https://comebrowsewithme.com/" target="_blank" title="Come browse with me">https://comebrowsewithme.com/</a></p>
 -----
 <!-- 教程类 -->
 ## 教程类
