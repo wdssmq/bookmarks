@@ -12,9 +12,9 @@
 
 更新时间： {docsify-updated}
 
-参考：[基于Github Pages + docsify，我花了半天就搭建好了个人博客 - 知乎](https://zhuanlan.zhihu.com/p/101126727 "基于Github Pages + docsify，我花了半天就搭建好了个人博客 - 知乎")
+参考：[基于 Github Pages + docsify，我花了半天就搭建好了个人博客 - 知乎](https://zhuanlan.zhihu.com/p/101126727 "基于Github Pages + docsify，我花了半天就搭建好了个人博客 - 知乎")
 
-## 关于docsify
+## 关于 docsify
 
 官网：[docsify](https://docsify.js.org/#/zh-cn/ "docsify") ← 已经指向中文说明
 
@@ -36,11 +36,11 @@ docsify serve docs
 配置项
 https://docsify.js.org/#/zh-cn/configuration?id=submaxlevel
 
-之前了解过一些同类型的东西，尤以wiki-in-box和本项目最为类似，只是需要额外实现web环境。
+之前了解过一些同类型的东西，尤以 wiki-in-box 和本项目最为类似，只是需要额外实现 web 环境。
 
-而docsify基于node.js部属，可以直接开一个web服务，同时修改也能自动刷新；
+而 docsify 基于 node.js 部属，可以直接开一个 web 服务，同时修改也能自动刷新；
 
-## 类似的Wiki项目
+## 类似的 Wiki 项目
 
 dmscode/Wiki-in-box: 一个可以放在各种网盘，各种空间的，Markdown 语法支持的 Wiki 系统
 
