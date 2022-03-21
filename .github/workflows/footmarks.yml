@@ -1,0 +1,38 @@
+name: footmarks
+on:
+  schedule:
+    - cron: "0 */137 * * *"
+  push:
+    branches:
+      - main
+      - footmarks
+  workflow_dispatch:
+
+jobs:
+  push:
+    runs-on: ubuntu-20.04
+    env:
+      TZ: Asia/Shanghai
+    steps:
+      # Checking out the repo
+      - name: Checkout
+        uses: actions/checkout@v3
+      # Read from issues 
+      - name: Python
+        run: |
+          # log
+          echo ${{ github.ref }}
+          echo ${{ github.repository }}
+          git branch -a
+          # Run python script
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          python3 deploy_issue.py ${{ secrets.REPO }} ${{ secrets.GITHUB_TOKEN }} > r
+          if [[ -s r ]]; then
+              git commit -m "$(cat r)" --allow-empty
+              git push --set-upstream origin ${{ github.ref }}
+              while ! git push
+              do
+                  git pull
+              done
+          fi
