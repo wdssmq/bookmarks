@@ -1,7 +1,9 @@
 name: footmarks
 on:
-  schedule:
-    - cron: "0 */137 * * *"
+  # schedule:
+  #   - cron: "0 */137 * * *"
+  issue_comment:
+    types: [created, deleted, edited]
   push:
     branches:
       - main
@@ -17,7 +19,7 @@ jobs:
       # Checking out the repo
       - name: Checkout
         uses: actions/checkout@v3
-      # Read from issues 
+      # Read from issues
       - name: Python
         run: |
           # log
