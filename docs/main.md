@@ -1,9 +1,5 @@
 # 书签列表
 
-更新时间： {docsify-updated}
-
------
-
 <!-- 工具类 -->
 [tools](bookmarks/tools.md ':include')
 
