@@ -1,6 +1,6 @@
+
 // Docsify plugin functions
 function footmarks_count(hook, vm) {
-  console.log(vm);
   hook.beforeEach(function (content) {
     if (!vm.route.file.startsWith('footmarks/')) {
       return content;
