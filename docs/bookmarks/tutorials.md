@@ -22,4 +22,8 @@
 
 <p>GeoJSON Viewer & Validator</p><p><a href="https://geojsonlint.com/" target="_blank" title="GeoJSON Viewer & Validator">https://geojsonlint.com/</a></p>
 
+### Git Cherry-pick
+
+<p>Mastering Git Cherry-pick | TripleZ's Blog</p><p><a href="https://blog.triplez.cn/posts/mastering-git-cherry-pick/" target="_blank" title="Mastering Git Cherry-pick | TripleZ's Blog">https://blog.triplez.cn/posts/mastering-git-cherry-pick/</a></p>
+
 -----
