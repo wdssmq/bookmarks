@@ -18,4 +18,10 @@
 
 <p>Over 5000+ free icons for macOS Monterey, Big Sur & iOS - massive app icon pack</p><p><a href="https://macosicons.com/#/" target="_blank" title="Over 5000+ free icons for macOS Monterey, Big Sur & iOS - massive app icon pack">https://macosicons.com/#/</a></p>
 
+### SVG 图片库
+
+> 图片素材 | SVG | Image | Icon
+
+<p>Free SVG Image & Icon. | SVG Silh</p><p><a href="https://svgsilh.com/" target="_blank" title="Free SVG Image & Icon. | SVG Silh">https://svgsilh.com/</a></p>
+
 -----
