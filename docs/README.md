@@ -14,6 +14,16 @@
 
 参考：[基于 Github Pages + docsify，我花了半天就搭建好了个人博客 - 知乎](https://zhuanlan.zhihu.com/p/101126727 "基于Github Pages + docsify，我花了半天就搭建好了个人博客 - 知乎")
 
+## 云足迹
+
+终于想明白，比起书签我更需要「云足迹」，只是一直没有合用的工具，直到看到下边项目：
+
+> twfb/DeployIssue：
+>
+> [https://github.com/twfb/DeployIssue](https://github.com/twfb/DeployIssue "twfb/DeployIssue")
+
+使用 Actions 调用 deploy_issue.py，用于将 issue 内容生成至 docsify 文档；
+
 ## 关于 docsify
 
 官网：[docsify](https://docsify.js.org/#/zh-cn/ "docsify") ← 已经指向中文说明

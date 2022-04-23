@@ -5,6 +5,9 @@ import datetime
 import sys
 import re
 
+# https://github.com/twfb/DeployIssue
+# https://github.com/twfb/DeployIssue/blob/main/deploy_issue.py
+
 REPO = sys.argv[1]
 TOKEN = sys.argv[2]
 POST_DIR = "docs/footmarks/"
