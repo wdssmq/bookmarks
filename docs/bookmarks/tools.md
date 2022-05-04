@@ -54,4 +54,9 @@
 
 <p>Come browse with me</p><p><a href="https://comebrowsewithme.com/" target="_blank" title="Come browse with me">https://comebrowsewithme.com/</a></p>
 
+### 直接使用浏览器进行录屏
+
+> 浏览器 | 视频录制
+
+<p>RecordScreen.io - Record your screen right from the browser</p><p><a href="https://recordscreen.io/" target="_blank" title="RecordScreen.io - Record your screen right from the browser">https://recordscreen.io/</a></p>
 -----
