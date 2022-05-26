@@ -4,6 +4,10 @@
 
 <p>linux-命令 · 语雀</p><p><a href="https://www.yuque.com/books/share/742ca8f6-34f3-41ef-b239-be00aaf0df31" target="_blank" title="linux-命令 · 语雀">https://www.yuque.com/books/share/742ca8f6-34f3-41ef-b239-be00aaf0df31</a></p>
 
+### TypeScript 入门教程
+
+<p>TypeScript 入门教程</p><p><a href="http://ts.xcatliu.com/" target="_blank" title="TypeScript 入门教程">http://ts.xcatliu.com/</a></p>
+
 ### JavaScript 中的 var
 
 <p>旧时的 "var"</p><p><a href="https://zh.javascript.info/var" target="_blank" title="旧时的 "var"">https://zh.javascript.info/var</a></p>
