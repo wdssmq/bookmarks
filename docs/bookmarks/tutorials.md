@@ -10,7 +10,7 @@
 
 ### JavaScript 中的 var
 
-<p>旧时的 "var"</p><p><a href="https://zh.javascript.info/var" target="_blank" title="旧时的 "var"">https://zh.javascript.info/var</a></p>
+<p>旧时的 "var"</p><p><a href="https://zh.javascript.info/var" target="_blank" title="旧时的 &quot;var&quot;">https://zh.javascript.info/var</a></p>
 
 ### Fetch 教程
 
