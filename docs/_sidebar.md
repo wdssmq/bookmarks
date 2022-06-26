@@ -1,5 +1,9 @@
 - [首页](README.md)
-- [书签列表](main.md)
+- 书签列表
+  - [工具类](bookmarks/tools.md)
+  - [教程类](bookmarks/tutorials.md)
+  - [编辑开发](bookmarks/program.md)
+  - [素材](bookmarks/material.md)
 - 云足迹
 <!-- footmarks -->
   * [2022-06](footmarks/2022-06.md)
