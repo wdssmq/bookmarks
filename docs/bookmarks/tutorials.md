@@ -30,6 +30,10 @@
 
 <p>Mastering Git Cherry-pick | TripleZ's Blog</p><p><a href="https://blog.triplez.cn/posts/mastering-git-cherry-pick/" target="_blank" title="Mastering Git Cherry-pick | TripleZ's Blog">https://blog.triplez.cn/posts/mastering-git-cherry-pick/</a></p>
 
+### Oh Shit, Git
+
+<p>Oh Shit, Git!?!</p><p><a href="https://ohshitgit.com/zh" target="_blank" title="Oh Shit, Git!?!">https://ohshitgit.com/zh</a></p>
+
 ### RSA 算法原理
 
 <p>RSA 算法原理（一） - 阮一峰的网络日志</p><p><a href="https://www.ruanyifeng.com/blog/2013/06/rsa_algorithm_part_one.html" target="_blank" title="RSA 算法原理（一） - 阮一峰的网络日志">https://www.ruanyifeng.com/blog/2013/06/rsa_algorithm_part_one.html</a></p>
