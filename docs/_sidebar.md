@@ -6,6 +6,7 @@
   - [素材](bookmarks/material.md)
 - 云足迹
 <!-- footmarks -->
+  * [2024-12](footmarks/2024-12.md)
   * [2023-10](footmarks/2023-10.md)
   * [2023-01](footmarks/2023-01.md)
   * [2022-09](footmarks/2022-09.md)
