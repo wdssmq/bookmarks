@@ -12,13 +12,14 @@ on:
 
 jobs:
   push:
-    runs-on: ubuntu-20.04
+    runs-on: ubuntu-latest
     env:
       TZ: Asia/Shanghai
     steps:
       # Checking out the repo
       - name: Checkout
         uses: actions/checkout@v3
+
       # Read from issues
       - name: Python
         run: |
