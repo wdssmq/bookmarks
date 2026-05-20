@@ -18,7 +18,7 @@ jobs:
     steps:
       # Checking out the repo
       - name: Checkout
-        uses: actions/checkout@v3
+        uses: actions/checkout@v5
 
       # Read from issues
       - name: Python
@@ -30,12 +30,23 @@ jobs:
           # Run python script
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
-          python3 deploy_issue.py ${{ secrets.REPO }} ${{ secrets.GITHUB_TOKEN }} > r
-          if [[ -s r ]]; then
-              git commit -m "$(cat r)" --allow-empty
-              git push --set-upstream origin ${{ github.ref }}
-              while ! git push
-              do
-                  git pull
-              done
+          python3 deploy_issue.py ${{ secrets.REPO }} ${{ secrets.GITHUB_TOKEN }}
+
+      # Commit Changes To Git
+      - name: Commit files
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git status
+          # git diff-index --quiet HEAD || (git commit -m "Auto Commit" -a --no-verify)
+          if [ -n "$(git status --porcelain)" ]; then
+            git add .
+            git commit -m "Auto Commit" -a --no-verify
           fi
+
+      # Push Changes To Git
+      - name: Push changes
+        uses: ad-m/github-push-action@master
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          branch: ${{ github.ref }}
