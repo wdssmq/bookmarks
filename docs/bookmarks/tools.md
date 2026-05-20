@@ -6,12 +6,6 @@
 
 <p>logseq/logseq: A privacy-first, open-source platform for knowledge sharing and management.</p><p><a href="https://github.com/logseq/logseq" target="_blank" title="logseq/logseq: A privacy-first, open-source platform for knowledge sharing and management.">https://github.com/logseq/logseq</a></p>
 
-### 回顾你的第一个 GitHub 提交
-
-> GitHub 丨 在线工具
-
-<p>Your First GitHub Commit Ever!</p><p><a href="https://www.amitmerchant.com/your-first-commit-ever/" target="_blank" title="Your First GitHub Commit Ever!">https://www.amitmerchant.com/your-first-commit-ever/</a></p>
-
 ### 使用 GitHub Pages 托管你自己的短网址服务
 
 > 部署 丨 GitHub Pages
@@ -41,12 +35,6 @@
 > 图片处理 丨 在线工具
 
 <p>将照片转成基于几何形状的水彩画</p><p><a href="https://www.geometrize.co.uk/" target="_blank" title="Geometrize - desktop app for geometrizing images into geometric primitives">https://www.geometrize.co.uk/</a></p>
-
-### 随机生成占位图
-
-> 自动生成 | 在线工具
-
-<p>Generative Placeholders</p><p><a href="https://generative-placeholders.glitch.me/" target="_blank" title="Generative Placeholders">https://generative-placeholders.glitch.me/</a></p>
 
 ### 共享浏览器窗口
 
