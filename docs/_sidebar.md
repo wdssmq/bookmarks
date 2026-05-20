@@ -3,7 +3,6 @@
   - [工具类](bookmarks/tools.md)
   - [教程类](bookmarks/tutorials.md)
   - [编辑开发](bookmarks/program.md)
-  - [素材](bookmarks/material.md)
 - 云足迹
 <!-- footmarks -->
   * [2024-12](footmarks/2024-12.md)
