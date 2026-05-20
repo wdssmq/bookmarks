@@ -10,7 +10,7 @@ function footmarks_count(hook, vm) {
     content = content.replace(/\r/g, '').replace(/\n+$/, '');
     // js count \n in string
     const itemsCount = content.trim().split("\n\n").length - 1;
-    content = content.replace(/\n\n/, ` - ${itemsCount}\n\n`);
+    content = `> 共 ${itemsCount} 条记录\n\n` + content;
     return content;
   });
 }
