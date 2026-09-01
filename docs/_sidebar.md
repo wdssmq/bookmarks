@@ -5,6 +5,7 @@
   - [编辑开发](bookmarks/program.md)
 - 云足迹
 <!-- footmarks -->
+  * [2026-05](footmarks/2026-05.md)
   * [2024-12](footmarks/2024-12.md)
   * [2023-10](footmarks/2023-10.md)
   * [2023-01](footmarks/2023-01.md)
